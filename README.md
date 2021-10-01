@@ -218,7 +218,7 @@ ways when being passed between functions, especially if a VBA type is not explic
 - Though unfortunately discovered too late into production to be useful to us, it is possible that VBA
 ranges contain within them a reference to the BASIC cellRange equivalent. This could be useful for
 transitioning between the two going forward.
-- Note that VBA array indeces start at 1, while BASIC array indeces start at 0.
+- Note that VBA array indexes start at 1, while BASIC array indexes start at 0.
 
 ### Helpful notes on User Interface
 - Note that Dialog in LibreOffice Basic is quite volatile - it may crash just when you are changing name of a component in your Dialog. So be sure to save your work frequently!
